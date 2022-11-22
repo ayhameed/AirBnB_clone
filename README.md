@@ -4,6 +4,10 @@
 
 # 0x00. AirBnB clone - The console
 
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
 ## 0x00.Table of contents
 
 * [0x01 Introduction](#0x01-Introduction)
