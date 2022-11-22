@@ -1,6 +1,6 @@
 <h1> AirBnB_clone</h1>
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png" alt="HBNB header">
+<img src="https://github.com/ayhameed/readme_images/blob/main/header.png" alt="HBNB header">
 
 # 0x00. AirBnB clone - The console
 
