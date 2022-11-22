@@ -8,6 +8,8 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
+</div>
+
 ## 0x00.Table of contents
 
 * [0x01 Introduction](#0x01-Introduction)
