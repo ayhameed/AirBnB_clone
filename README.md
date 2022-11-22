@@ -1,3 +1,7 @@
+<h1> AirBnB_clone</h1>
+
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png" alt="HBNB header">
+
 # 0x00. AirBnB clone - The console
 
 ## 0x00.Table of contents
@@ -42,7 +46,7 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 ## 0x03 Installation
 
 ```bash
-git clone https://github.com/aysuarex/AirBnB_clone.git
+git clone https://github.com/ayhameed/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -255,15 +259,15 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```bash
 (hbnb) create User
 1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "aysuarex@gmail.com"
+(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "ekivictory580@gmail.com"
 (hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
-[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'aysuarex@gmail.com'}
+[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'ekivictory58@gmail.com'}
 (hbnb)
 
 ```
 ## Authors
 <details>
-    <summary>Eki Victory</summary>
+    <summary>Bamidele Adefolaju</summary>
     <ul>
     <li><a href="https://www.github.com/ayhameed">Github</a></li>
     <li><a href="https://www.twitter.com/harmyd007">Twitter</a></li>
@@ -271,10 +275,10 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>Eki Victory</summary>
     <ul>
     <li><a href="https://www.github.com/ekivictory1">Github</a></li>
-    <li><a href="https://www.twitter.com/ekivictory">Twitter</a></li>
+    <li><a href="https://twitter.com/victory_eki">Twitter</a></li>
     <li><a href="mailto:ekivictory580@gmail.com">e-mail</a></li>
     </ul>
 </details>
